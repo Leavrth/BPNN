@@ -1,0 +1,2 @@
+lib文件夹 放的是fltk的库文件
+FL文件夹 放的是fltk的include文件
